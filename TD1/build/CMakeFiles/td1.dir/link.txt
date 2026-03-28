@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/td1.dir/main.cpp.o CMakeFiles/td1.dir/timespec_utils.cpp.o CMakeFiles/td1.dir/chrono.cpp.o -o td1 
